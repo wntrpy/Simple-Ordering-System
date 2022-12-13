@@ -17,9 +17,9 @@ int main()
   cout << endl;
 
   cout << "Please select a payment method." << endl;
-  cout << " Cash on Delivery" << endl;
-  cout << " Credit / Debit Card" << endl;
-  cout << " e-wallet" << endl;
+  cout << "Cash on Delivery" << endl;
+  cout << "Credit / Debit Card" << endl;
+  cout << "e-wallet" << endl;
   cout << endl;
 
   cout << "Payment Method: ";
